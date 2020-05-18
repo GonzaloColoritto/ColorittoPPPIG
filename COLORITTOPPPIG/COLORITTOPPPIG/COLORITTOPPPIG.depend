@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589842434 source:c:\users\gonzalo\desktop\colorittopppig\colorittopppig\main.c
+	<stdio.h>
+	<stdlib.h>
+
